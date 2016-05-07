@@ -4,10 +4,19 @@
 かれこれ15年近く前、井出が考えたゲーム。  
 NIPPON Tap RENDA Association、略して「NTR-Ass」とのこと。(下品でアホっぽいこと言いたいだけ)
 
-DirectXでのゲーム開発の練習がてら、試しに作ってみます。
-
-開発環境
+プラットフォーム
 ----
-* Visual Studio 2013(or 2015) Community
-* C++
-* DirectX SDK 9.0C June 2010
+**スマホ(iPhone)**  
+→連打がテーマなので、「タップ」するのが良いのでは？という理由でスマホ。  
+→誰もAndroid持ってないのでiOS一択。
+
+開発環境・言語
+----
+XcodeでSwift？  
+UnityでC#？  
+要調査。
+
+どこまでやる？
+----
+まずは内輪で遊べるところまで。  
+AppStoreに登録するのは。。。追い追い考えよう。
